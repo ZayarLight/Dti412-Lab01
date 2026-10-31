@@ -1,33 +1,17 @@
-# Student Developer Profile
+# Semester Goals
 
-## Personal Information
+- Improve Git and GitHub skills
+- Learn Full-Stack Web Development
+- Improve Networking knowledge
+- Build more portfolio projects
 
-- Full Name: Zayar Lin
-- Student ID: 24070240 3913
-- Program: Digital Technology Innovation
-- Academic Year: 2026
+# Portfolio Projects
 
-## Technical Skills
+1. Arduino Traffic Light Controller
+2. Smart Home IoT System
+3. Personal Portfolio Website
 
-- Programming Languages: Python, JavaScript, C++
-- Database Skills: MySQL
-- Web Development Skills: HTML, CSS, JavaScript
+# Certifications (Planned)
 
-## Personal Interests
-
-- Hobbies: Gym, Technology, Gaming
-- Favorite Technology: IoT and Embedded Systems
-
-## Career Goal
-
-To become a professional software developer specializing in application development and innovative technology solutions.
-
-## Learning Expectations
-
-I expect to learn Git, GitHub, version control techniques, and modern software development practices.
-
-## Future Development Plan
-
-- Technical skills I want to improve: Full-Stack Development
-- Technologies I want to learn: Django, Cloud Computing, REST APIs
-- Dream Job Position: Software Engineer
+- Cisco Networking Basics
+- Microsoft Azure Fundamentals
